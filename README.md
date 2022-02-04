@@ -38,16 +38,10 @@
     
 
     (1) First make sure your All packages are updated.
+       
+    (2) Please on your mobile data or Wi-fi  
 
-        
-
-    (2) Please on your mobile data or Wi-fi 
-
-    
-
-    (3) Install the All packages provided by the developer correctly.
-
-        
+    (3) Install the All packages provided by the developer correctly.       
 
     (4) Then install the requirements provided by the developer.
 
