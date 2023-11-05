@@ -47,4 +47,6 @@
 
     (5) Finally Run python file (main.py)
 
+    (6) if tool is not working (bad marshal error) watch this video and fix it :
+
          
